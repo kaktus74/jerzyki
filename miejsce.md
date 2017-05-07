@@ -10,7 +10,7 @@ Budka
 
 Budkę kupiliśmy w internecie. Wykonana jest z trocinobetonu, który nie jest zbyt przyjemny dla naszego oka ale skutecznie 
 imituje skały które są naturalnym domem jerzyków:
-![budka]({{site.url}}/images/budka.jpg)
+![budka]({{site.baseurl}}/images/budka.jpg)
 
 Niestety trocinobeton jest słabym izolatorem termicznym dlatego musieliśmy budkę dodatkowo zaizolować. Bez izolacji temperatura w budce
 przekraczała czasem 40 st. C i zmniejszała szanse na przeżycie piskląt.

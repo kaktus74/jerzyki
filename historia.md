@@ -19,7 +19,7 @@ a kiedy się zorientowaliśmy - było za późno.
 Sezon 2015
 ==========
 - Kwiecień/maj - zainstalowaliśmy budkę i zaobserwowaliśmy obecność jerzyków. Ptaki zwabiło 
-[nagranie mp3]({{site.url}}/media/glosy_pary_jerzykow.mp3) ściągnięte z internetu,
+[nagranie mp3]({{site.baseurl}}/media/glosy_pary_jerzykow.mp3) ściągnięte z internetu,
 odtwarzane codziennie w pętli po kilka godzin. Jerzyki są ptakami żyjacymi w koloniach, dlatego przyciągają je odgłosy innych ptaków tego gatunku.
 
 Sezon 2016
