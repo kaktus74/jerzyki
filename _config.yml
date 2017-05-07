@@ -16,9 +16,9 @@
 title: Podglądanie jerzyków
 email: kaktus74@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Bieżące informacji z obserwacji pary jerzyków w sezonie 2017. Szczecin, Polska
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Bieżące obserwacje pary jerzyków w sezonie 2017. Szczecin, Polska
+baseurl: "/jerzyki" # the subpath of your site, e.g. /blog
+url: "https://kaktus74.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kaktus74
 github_username:  kaktus74
 
