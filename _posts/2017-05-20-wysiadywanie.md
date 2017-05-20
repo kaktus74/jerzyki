@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Pierwsze jajko?"
-date:   2017-05-19 20:00:00 +0200
+title:  "Wysiadywanie"
+date:   2017-05-20 20:00:00 +0200
 categories: "2017"
 ---
 
