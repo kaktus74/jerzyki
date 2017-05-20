@@ -6,5 +6,6 @@ categories: "2017"
 ---
 
 
-Dzisiaj ptaki zmieniły zachowanie. Do tej pory systematycznie wylatywały z budki przed południem i wracały dopiero wiedzorem. Dziś przez cały dzień ptak siedział na gnieźdie:
+Dzisiaj ptaki zmieniły zachowanie. Do tej pory systematycznie wylatywały z budki przed południem i wracały dopiero wiedzorem. 
+Dziś przez cały dzień jeden ptak siedział na gnieździe:
 ![Wysiadywanie]({{site.baseurl}}/images/vlcsnap-2017-05-20-17h18m40s094.png)
